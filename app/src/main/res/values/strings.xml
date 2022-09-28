@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="ex_1">Software Developer Apprentice (Android)</string>
+    <string name="skills_1">OpenBet Full-time \nSkills: Informix, Tcl-Tk, Java, Kotlin, Python, Ruby\n</string>
+    <string name="ex_2">\nStructural Engineer</string>
+    <string name="skills_2">Royal HaskoningDHV\nSkills: Tekla Structural Designer, Tekla Tedds, AutoCAD, Structural Engineering, Steel Structures, Concrete, Revit\n</string>
+    <string name="more_2">Design of steel structures such as :\n
+-Industrial Warehouses\n
+-Data centres\n
+-Cold Stores\n
+-Concrete foundation design\n
+-Composite design\n
+-Parametric design using tools such as Grasshopper\n
+-Tools used on daily basis: Tekla Structural designer(Trimble structural suite), Staad Connect pro edition, Tedds, BIM360, Revit, Autocad\n</string>
+    <string name="ex_3">\nStructural Engineer</string>
+    <string name="skills_3">Superstructures \nSkills: Tekla Structural Designer, Tekla Tedds, AutoCAD, Structural Engineering, Steel Structures, Concrete, Revit\n</string>
+    <string name="name">Demis Lavrentidis</string>
+    <string name="work_history">Work History</string>
+    <string name="call_demis">Call Demis</string>
+    <string name="email_demis">Email Demis</string>
+    <string name="profile_photo">profile_photo</string>
+    <string name="ob">ob</string>
+    <string name="rh">rh</string>
+    <string name="ss">ss</string>
+
+</resources>
